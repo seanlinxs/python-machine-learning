@@ -59,7 +59,7 @@ scikit-learn==0.21.2
 scipy==1.3.0
 seaborn==0.9.0
 Send2Trash==1.5.0
--e git+git@github.com:seanlinxs/python-machine-learning.git@cf5cc3798b2d20a44cbe27eff1a937fb2a7ff287#egg=shared
+-e git+git@github.com:seanlinxs/python-machine-learning.git@09e16f1b9fee0291e8edbee2c071be59a744c767#egg=shared
 six==1.12.0
 terminado==0.8.2
 testpath==0.4.2
